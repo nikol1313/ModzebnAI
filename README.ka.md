@@ -2,6 +2,15 @@
 
 # ModzebnAI
 
+![frontend](https://img.shields.io/badge/frontend-React-61DAFB?logo=react&logoColor=white)
+![backend](https://img.shields.io/badge/backend-Node.js-5FA04E?logo=nodedotjs&logoColor=white)
+![database](https://img.shields.io/badge/database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![scraping](https://img.shields.io/badge/scraping-Playwright-2EAD33)
+![queue](https://img.shields.io/badge/queue-Celery-37814A?logo=celery&logoColor=white)
+![docker](https://img.shields.io/badge/docker-compose-2496ED?logo=docker&logoColor=white)
+![AI](https://img.shields.io/badge/AI-LLM-8A2BE2)
+![license](https://img.shields.io/badge/license-MIT-blue)
+
 **AI-ზე დაფუძნებული სამუშაოს რადარი ქართული ბაზრისთვის**
 
 აკვირდება ვაკანსიების საიტებს, ყოველ ახალ განცხადებას შენს CV-ს ადარებს და განაცხადის გაგზავნას გიმარტივებს.
