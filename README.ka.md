@@ -10,9 +10,6 @@
 
 </div>
 
-<!-- აქ დაამატე დაფის სქრინშოტი ან GIF -->
-<!-- ![დაფა](docs/screenshot.png) -->
-
 ---
 
 ## პრობლემა
@@ -35,10 +32,10 @@ jobs.ge, hr.ge, …  →  სკრეიპერები  →  PostgreSQL  �
 | ფენა           | ტექნოლოგია             |
 |----------------|------------------------|
 | Frontend       | React, TypeScript      |
-| Backend        | FastAPI, Python        |
+| Backend        | Node.js, Express       |
 | მონაცემთა ბაზა | PostgreSQL             |
 | AI             | LLM API                |
-| სკრეიპინგი     | Playwright             |
+| სკრეიპინგი     | Playwright, python       |
 | განრიგი        | Celery / cron          |
 | ინფრასტრუქტურა | Docker, Docker Compose |
 
