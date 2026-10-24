@@ -33,10 +33,10 @@ jobs.ge, hr.ge, …  →  Scrapers  →  PostgreSQL  →  AI Scoring  →  Email
 | Layer          | Technology                              |
 |----------------|-----------------------------------------|
 | Frontend       | React, TypeScript                       |
-| Backend        | FastAPI, Python                         |
+| Backend        | Node.js, Express                       |
 | Database       | PostgreSQL                              |
 | AI             | LLM API  |
-| Scraping       | Web automation: Playwright
+| Scraping       | Web automation: Playwright, python
 | Scheduling     | Celery / cron |
 | Infrastructure | Docker, Docker Compose                  |
 
