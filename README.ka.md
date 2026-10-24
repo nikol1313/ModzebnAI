@@ -11,6 +11,8 @@
 ![AI](https://img.shields.io/badge/AI-LLM-8A2BE2)
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
+🌐 [modzebnai.ge](https://...)
+
 **AI-ზე დაფუძნებული სამუშაოს რადარი ქართული ბაზრისთვის**
 
 აკვირდება ვაკანსიების საიტებს, ყოველ ახალ განცხადებას შენს CV-ს ადარებს და განაცხადის გაგზავნას გიმარტივებს.
