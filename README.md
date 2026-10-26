@@ -9,7 +9,6 @@
 ![queue](https://img.shields.io/badge/queue-Celery-37814A?logo=celery&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-compose-2496ED?logo=docker&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-LLM-8A2BE2)
-![license](https://img.shields.io/badge/license-MIT-blue)
 
 🌐 [modzebnai.ge](https://...)
 
@@ -46,7 +45,7 @@ jobs.ge, hr.ge, …  →  Scrapers  →  PostgreSQL  →  AI Scoring  →  Email
 | Database       | PostgreSQL                              |
 | AI             | LLM API  |
 | Scraping       | Web automation: Playwright, python
-| Scheduling     | Celery / cron |
+| Scheduling     | cron |
 | Infrastructure | Docker, Docker Compose                  |
 
 ## Project Structure
